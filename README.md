@@ -60,9 +60,10 @@ O código está disponível em [power-query/tratamento-dados.m](power-query/trat
 
 ## 📊 Dashboard
 
-[COLE O LINK DO POWER BI]
+[Dashboard Nexora no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjVkZDQ5ZGItY2YzOS00MWRiLWFkM2UtNjk2NDExNzA2MGVlIiwidCI6IjYxOTIxZGExLTBkNDUtNDk5OS04MDQzLWYxZWM3MzIwYTYxNCJ9)
 
-[COLE A IMAGEM DO DASHBOARD AQUI]
+<img width="1111" height="617" alt="dashboard-nexora" src="https://github.com/user-attachments/assets/613bfc7f-c3ea-4f04-a966-895ffa98c00f" />
+
 
 ## 📁 Estrutura
 
