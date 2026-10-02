@@ -71,14 +71,17 @@ O código está disponível em [power-query/tratamento-dados.m](power-query/trat
 nexora-project/
 ├── README.md
 ├── data/
+│   └── README.md
 │   └── Vendas Equipe.xlsx
-├── images/
 ├── documentation/
-│   ├── case.md
-│   ├── metodologia.md
 │   ├── analises.md
+│   ├── case.md
 │   ├── insights.md
 │   └── limitacoes.md
+│   ├── metodologia.md
+├── images/
+│   └── .gitkeep
+│   └── dashboard-nexora.png
 └── power-query/
     └── tratamento-dados.m
 ```
